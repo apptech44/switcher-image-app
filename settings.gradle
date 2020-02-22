@@ -1,0 +1,2 @@
+rootProject.name='My ImageSwitcher App'
+include ':app'
